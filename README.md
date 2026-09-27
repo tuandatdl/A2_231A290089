@@ -9,7 +9,6 @@
 * **Lớp học phần:** Lập trình thiết bị di động (INT4211)
 * **Môi trường thực thi:** Android Studio trên macOS (Apple Silicon)
 * **Thiết bị chạy thử nghiệm:** Máy ảo Pixel 8 (Android 17, API 37.1 – aarch64)
-* **Chế độ Repository:** Private (Đã mời giảng viên làm Collaborator)
 
 ---
 
